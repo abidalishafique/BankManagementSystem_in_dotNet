@@ -1,0 +1,43 @@
+c:\users\abid shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csprojResolveAssemblyReference.cache
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.Cache
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Welcome.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Select.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Admin_login.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Employee_login.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.User_login.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\bin\Debug\Bank.mdf
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\bin\Debug\Bank_log.ldf
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.User_Option.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.User_change_password.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.User_Detail.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.User_Deposit.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.User_withdraw.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.check_balance.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.transfer.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.cashier1.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.cashier1_deposit.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.cashier1_change_password.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.cashier1_deposit_cheque.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.cashier2.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.cashier2_withdraw.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.accountant.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Create_account.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.account_number.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Data_Modifier.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Account_Balance.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.account_balan.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.d_change_password.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Admin.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Admin_change_password.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Admin_change_pin.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.change_employee_password.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Account_Data.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Employee_Data.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.verify_admin.resources
+C:\Users\Abid Shafique\documents\visual studio 2013\Projects\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.delete_account.resources
